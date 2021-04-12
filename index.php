@@ -1,9 +1,9 @@
 <?php
 
 $tokens = [
-		   'token',
-		   'token2' 
-		  ]; // tokens like ['test', 'test2', 'test3'];
+		'token',
+		'token2' 
+	  ]; // tokens like ['test', 'test2', 'test3'];
 $message = 'my message'; // not array cos useless
 $owner_id = '-184006546' // insert vk id
 
